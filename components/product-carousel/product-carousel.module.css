@@ -1,0 +1,33 @@
+.productSlideContent {
+}
+
+.productSlideContent h1 {
+  font-size: 2.25rem;
+}
+
+.productSlideContent h2 {
+  font-size: 2.75rem;
+  color: #654aff;
+}
+
+.productSlideContent h3 {
+  font-size: 2.5rem;
+}
+
+.productSlideContent h4 {
+  font-size: 2.25rem;
+}
+
+.productSlideContent h5 {
+  font-size: 2rem;
+}
+
+.productSlideContent h6 {
+  font-size: 1.75rem;
+}
+.productSlideContent p {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
